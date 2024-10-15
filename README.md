@@ -1,6 +1,6 @@
 
 
-# Lab #4: Bottles of Soda Lab
+# Bottles of Soda Lab
 
 Directions:  Sailors love to sing songs, which are known as sea shanties. One of the best sea shanties is the song “99 bottles of soda on the wall.” It goes like this:
 
